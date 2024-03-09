@@ -1,12 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CsharpAlgorithms;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CsharpAlgorithms.Tests
+﻿namespace CsharpAlgorithms.Tests
 {
     [TestClass()]
     public class Leetcode9Tests
